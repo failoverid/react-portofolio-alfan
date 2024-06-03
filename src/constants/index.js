@@ -1,0 +1,2 @@
+
+export const HERO_CONTENT = `Passionate about implementing new technologies, I have extensive experience in Java, C++, and basic web application languages. I enjoy exploring new languages, especially those related to databases and web development, such as React, Vite, SQL Server, Laravel, Firebase, and MySQL. My goal is to optimize and distribute data seamlessly, ensuring it is accessible and clear for everyone.`;
